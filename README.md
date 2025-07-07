@@ -39,7 +39,7 @@ A React-based interactive spreadsheet component with real-time editing, cell for
 
    ```bash
    git clone <repository-url>
-   cd interactive-spreadsheet
+   cd keye-interactive-grid
    ```
 
 2. **Install dependencies**
